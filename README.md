@@ -28,4 +28,4 @@
 
 * **Server Administration:** 2+ years of experience configuring, maintaining, and managing Minecraft servers. Skilled in optimization, reducing lag, and handling backend configurations.
 * **Community Infrastructure:** Designed and deployed custom discord bots (like *ForgedMC* and *Cracked Tier Tests*) to manage staff queues, ticket systems, and automation.
-* **Performance Tuning:** Experienced in maximizing network performance using custom JVM arguments, low-latency system tweaks, and server-side config optimization.
+* **Performance Tuning:** Experienced in making, configuring plugins and i can manage a server too.
