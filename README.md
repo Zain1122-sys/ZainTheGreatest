@@ -1,6 +1,6 @@
 # Hey, I’m Zain 👋
 
-🎮 **Minecraft Server Manager & Developer**
+🎮 **Minecraft Server Developer**
  **2+ Years of Experience** in Developing & Infrastructure
 🛠️ Discord Bot Developer | Specialized in Ticket Systems & Community Automation
 ✨ Open to managing networks, optimizing performance.
