@@ -20,7 +20,9 @@
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Discord.py](https://img.shields.io/badge/discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
----
+## 🌐 Socials:
+
+![Discord](https://img.shields.io/badge/Discord-zainthegreatest-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 ## 🚀 Projects & Experience
 
