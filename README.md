@@ -3,7 +3,7 @@
 🎮 **Minecraft Server Manager & Developer**
 💼 **2+ Years of Experience** in Server Administration & Infrastructure
 🛠️ Discord Bot Developer | Specialized in Ticket Systems & Community Automation
-✨ Open to managing networks, optimizing performance, and building clean setups.
+✨ Open to managing networks, optimizing performance.
 
 ---
 
