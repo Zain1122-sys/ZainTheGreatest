@@ -15,7 +15,6 @@
 
 ### ⚙️ Server & Environment
 ![Minecraft](https://img.shields.io/badge/Minecraft-613E30?style=for-the-badge&logo=minecraft&logoColor=white)
-![Spigot](https://img.shields.io/badge/Spigot-F25E22?style=for-the-badge&logo=spigot&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
