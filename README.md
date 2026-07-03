@@ -21,5 +21,5 @@
 
 ## 🚀 Projects & Experience
 
-* **Community Infrastructure:** Developed and deployed custom discord infrastructure (like *CactusTiers* and *Cracked Tier Tests*) featuring automated ticket queues and moderation systems.
+* **Community Infrastructure:** Developed and deployed custom discord infrastructure (like *ForgedMC* and *Cracked Tier Tests*) featuring automated ticket queues and moderation systems.
 * **Optimization & Performance:** Experienced with low-latency server scaling, custom JVM arguments, and system-wide optimizations to squeeze out peak performance.
