@@ -1,31 +1,83 @@
 # Hey, I’m Zain 👋
 
-🎮 **Minecraft Server Developer**
- **2+ Years of Experience** in Developing & Infrastructure
-🛠️ Discord Bot Developer | Specialized in Ticket Systems & Community Automation
-✨ Open to managing networks, optimizing performance.
+🎮 **Discord Developer & Minecraft Developer.**
+🛠️ Specialized Python development, backend configuration, and system optimizations.
+💼 **2+ Years of Experience** developing community utilities # Hey, I’m Zain 👋
+
+🎮 **Software Developer & Systems Administrator**
+🛠️ Specialized in asynchronous Python development, backend automation, and low-latency network infrastructure.
+💼 **2+ Years of Experience** developing community utilities and managing performance-critical server environments.
 
 ---
 
-## 🧠 Tech Stack
+## 🧠 Technical Stack
 
-### ⚙️ Server Management & Systems
-![Minecraft](https://img.shields.io/badge/Minecraft-613E30?style=for-the-badge&logo=minecraft&logoColor=white)
-![Spigot](https://img.shields.io/badge/Spigot-F25E22?style=for-the-badge&logo=spigot&logoColor=white)
-![PaperMC](https://img.shields.io/badge/PaperMC-1A73E8?style=for-the-badge&logo=aircanada&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-
-### 💻 Development & Scripting
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+### 🐍 Software Development & Scripting
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Discord.py](https://img.shields.io/badge/discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### ⚙️ Systems & Infrastructure Optimization
+![Minecraft](https://img.shields.io/badge/Minecraft-613E30?style=for-the-badge&logo=minecraft&logoColor=white)
+![Linux / Windows Server](https://img.shields.io/badge/Server_OS-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 ForgedMC Automated Bot
+*I have developed a custom most powerful discord bot for ForgedMC*
+* **Development:** I have developed a custom bot for ForgedMC.
+* **Functions:** Custom Tickets, powerful Automod, anti-spam, anti-raid, moderation and music bot. 
+
+### 📊 Cracked Tier Tests Engine
+*I've deployed a custom tier testing for Cracked Tier Tests & which manages all the system automatically.*
+* **Logic & Data:** It inclues Support Tickets, Tier testing tickets and custom suggestions.
+* **Impact:** Reduced staff administration overhead.
+
+### ⚡ Systems Optimization & JVM Performance Engineering
+* **Runtime Tuning:** Developed and tested optimized Java Virtual Machine (JVM) flags to maximize garbage collection efficiency and eliminate server-side stuttring.
+* **Resource Optimization:** Applied kernel-level OS tweaks to minimize system background processing, directly improving input latency and network throughput for competitive environments.
+
+---
+
+## 🌐 Socials:
+
+![Discord](https://img.shields.io/badge/Discord-zainthegreatest-5865F2?style=for-the-badge&logo=discord&logoColor=white) managing servers.
+
+---
+
+## 🧠 Technical Stack
+
+### 🐍 Software Development & Scripting
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Discord.py](https://img.shields.io/badge/discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### ⚙️ Systems & Infrastructure Optimization
+![Minecraft](https://img.shields.io/badge/Minecraft-613E30?style=for-the-badge&logo=minecraft&logoColor=white)
+![Linux / Windows Server](https://img.shields.io/badge/Server_OS-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 CactusTiers Automated Infrastructure Bot
+*Developed a scalable, asynchronous Discord application using `discord.py` to automate community testing queues and staff operations.*
+* **Core Development:** Implemented Discord slash commands, persistent interactive button menus, and a secure reaction-role permissions engine.
+* **Automation:** Engineered an automated ticket-handling queue system that dynamically assigns server staff roles, logs active telemetry, and manages access controls.
+
+### 📊 Cracked Tier Tests Engine
+*A specialized automation script designed to handle real-time tier list assignments and performance tracking.*
+* **Logic & Data:** Built custom tracking logic to process, format, and push structured testing results into secure backend logging channels.
+* **Impact:** Reduced staff administration overhead by automating manual role assignment queues.
+
+### ⚡ Systems Optimization & JVM Performance Engineering
+* **Runtime Tuning:** Developed and tested optimized Java Virtual Machine (JVM) flags to maximize garbage collection efficiency and eliminate server-side tick spikes.
+* **Resource Optimization:** Applied kernel-level OS tweaks to minimize system background processing, directly improving input latency and network throughput for high-tickrate competitive environments.
+
+---
 
 ## 🌐 Socials:
 
 ![Discord](https://img.shields.io/badge/Discord-zainthegreatest-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-
-## 🚀 Projects & Experience
-
-* **Server Administration:** 2+ years of experience configuring, maintaining, and managing Minecraft servers. Skilled in optimization, reducing lag, and handling backend configurations.
-* **Community Infrastructure:** Designed and deployed custom discord bots (like *ForgedMC* and *Cracked Tier Tests*) to manage staff queues, ticket systems, and automation.
-* **Performance Tuning:** Experienced in making, configuring plugins and i can manage a server too.
