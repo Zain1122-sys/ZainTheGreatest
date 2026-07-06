@@ -25,7 +25,7 @@
 
 ## 🚀 Projects
 
-### 🤖 ForgedMC Automated Bot
+### 🤖 ForgedMC Bot
 *I have developed a custom most powerful discord bot for ForgedMC*
 * **Development:** I have developed a custom bot for ForgedMC.
 * **Functions:** Custom Tickets, powerful Automod, anti-spam, anti-raid, moderation and music bot. 
@@ -35,7 +35,7 @@
 * **Logic & Data:** It inclues Support Tickets, Tier testing tickets and custom suggestions.
 * **Impact:** Reduced staff administration overhead.
 
-### ⚡ Systems Optimization & JVM Performance Engineering
+### ⚡ Systems Optimization & JVM Performance.
 * **Runtime Tuning:** Developed and tested optimized Java Virtual Machine (JVM) flags to maximize garbage collection efficiency and eliminate server-side stuttring.
 * **Resource Optimization:** Applied kernel-level OS tweaks to minimize system background processing, directly improving input latency and network throughput for competitive environments.
 
@@ -45,7 +45,7 @@ I managed the backend setup for the Tiers SMP project.
 
 ## 💻 Code Example: How I handle Tickets
 
-Anyone can say they code, so here is a quick look at how I actually write my Discord buttons in Python. 
+Anyone can say they code so here is a quick look at how I actually write my Discord buttons in Python. 
 
 ```python
 class TicketButton(discord.ui.View):
