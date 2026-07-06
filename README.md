@@ -39,7 +39,7 @@ I build custom tools that make managing Minecraft networks easier. I focus on wr
 
 ## 💻 Code Example: How I Handle Tickets
 
-Anyone can say they code, so here is a quick look at how I actually write my Discord buttons in Python using `discord.py`. This logic checks if a user already has an active ticket open so they can't spam the server with channels:
+Anyone can say they code so here is a quick look at how I actually write my Discord buttons in Python using `discord.py`. This logic checks if a user already has an active ticket open so they can't spam the server with channels:
 
 ```python
 class TicketButton(discord.ui.View):
