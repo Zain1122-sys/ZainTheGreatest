@@ -23,7 +23,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 ### 🤖 ForgedMC Automated Bot
 *I have developed a custom most powerful discord bot for ForgedMC*
@@ -39,6 +39,10 @@
 * **Runtime Tuning:** Developed and tested optimized Java Virtual Machine (JVM) flags to maximize garbage collection efficiency and eliminate server-side stuttring.
 * **Resource Optimization:** Applied kernel-level OS tweaks to minimize system background processing, directly improving input latency and network throughput for competitive environments.
 
+### ⚔️ Tiers SMP Setup & Management
+I managed the backend setup for the Tiers SMP project. 
+* **What I did:** Wrote the official server rules, designed the custom welcome system, and set up all the Discord branding so the server looked highly professional from day one.
+
 ---
 
-ite)
+
