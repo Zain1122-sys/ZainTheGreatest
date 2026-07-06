@@ -27,8 +27,8 @@ I build custom tools that make managing Minecraft networks easier. I focus on wr
 * **Server Software:** Experienced with Spigot, Paper, and running optimized setups for competitive networks.
 * **Version Optimization:** I specialize in getting older versions like 1.8.9 to run smoothly on modern Java runtimes for peak performance.
 * **Player Experience Tuning:** Adjusting game configurations to ensure low input latency and stable hit registration for competitive PvP modes like Bedwars and Sumo.
-* **Lag Reduction:** I configure server-side files to eliminate game lag and stuttering, tuning resource usage so the server stays at a stable 20 TPS even during heavy fights.
-* **Low-End Hardware Tweaks:** I have hands-on experience optimizing game performance and system setups to cut down on background processes, ensuring players get the maximum FPS possible.
+* **Lag Reduction:** I configure server side files to eliminate game lag and stuttering, tuning resource usage so the server stays at a stable 20 TPS even during heavy fights.
+* **Low-End Hardware Tweaks:** I have hands on experience optimizing game performance and system setups to cut down on background processes, ensuring players get the maximum FPS possible.
 
 ### ⚙️ Discord Bot Development
 * **ForgedMC System Bot:** Developed a custom, feature-rich infrastructure bot using Python. It handles custom support tickets, server moderation, anti-spam, anti-raid protection, and a music playback system.
