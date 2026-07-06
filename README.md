@@ -3,7 +3,7 @@
 🎮 **Minecraft Developer & Discord Bot Developer**
 💼 **2+ Years of Experience** building community utilities, managing servers, and optimizing performance.
 
-I build custom tools that make managing Minecraft networks easier. I focus on writing clean Discord bots for staff teams, configuring server files correctly, and lowering lag so competitive players get a smooth experience.
+I build custom tools that make managing Minecraft networks easier. I focus on writing clean Discord bots for teams, configuring server files correctly, and lowering lag so competitive players get a smooth experience.
 
 ---
 
